@@ -148,7 +148,7 @@ house-price-prediction-ml
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/house-price-prediction-ml.git
+git clone https://github.com/Mayank004-ux/House_Price_Prediction_ML
 ```
 
 ### Install Dependencies
